@@ -32,14 +32,14 @@
 
 /* *•̩̩͙⊱••••••••••••✩ VARIABLES ✩••••̩̩͙⊰•••••••••** */
 :root {
-	--theme-name: "Black Hole";
+	--theme-name: "Giga Chad";
   --theme-version: "1.5";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
   --black-hole: url(https://i.imgur.com/wTHPMpc.jpg);
-  --stars: url();
+  --stars: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Antonia_Sautter_Creations.png/120px-Antonia_Sautter_Creations.png);
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
   /* primary background color */
